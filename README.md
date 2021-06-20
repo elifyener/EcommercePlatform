@@ -6,7 +6,7 @@
 e-Commerce System
 
 ## Used technologies
-Hibernate
+*Hibernate
 Maven
 AJAX
 Web-service
