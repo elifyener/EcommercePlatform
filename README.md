@@ -6,8 +6,8 @@
 e-Commerce System
 
 ## Used technologies
-*Hibernate
-Maven
-AJAX
-Web-service
-Bootstrap 4
+*Hibernate 
+*Maven 
+*AJAX 
+*Web-service 
+*Bootstrap 4 
