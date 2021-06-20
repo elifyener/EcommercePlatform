@@ -1,0 +1,33 @@
+body{
+	font-family:'Open Sans', sans-serif;
+	font-size: 13px;
+}
+
+.shadow{
+	box-shadow: 0px 0px 8px #000;
+}
+
+.bg-custom-light{
+	background: #f5f5f5;
+}
+
+.product-tabs .card .card-footer{
+	background: transparent;
+	border-top: 0;
+}
+
+.card-price{
+	color: #262626;
+	font-size: 17px;
+	font-weight: 600;
+}
+
+.price-old{
+	color: #878787;
+	text-decoration: line-through;
+	font-weight: 500;
+}
+
+.card:hover{
+	box-shadow:0px 2px 10px 0px rgba(49,57,66,0.12);
+}
